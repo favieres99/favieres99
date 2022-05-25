@@ -41,5 +41,5 @@ I am a student at 42 Madrid.
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favieres99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favieres99&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![gfaviere's 42 stats](https://badge42.vercel.app/api/v2/cl3m1culy006909lgu3oa06km/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
