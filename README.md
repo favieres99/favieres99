@@ -21,7 +21,7 @@ I am a student at 42 Madrid.
 
 - :telescope: I’m learning C & C++.
 
-- :zap: In my free time, I learn smart contracts in Solidity.
+- :zap: In my free time, I learn smart contracts in Solidity and work in sporadic projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gonzalo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalofavieres)
 
