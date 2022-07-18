@@ -15,9 +15,7 @@
 ### :man_technologist: About Me :
 I am a student at 42 Madrid.
 
-- :telescope: I’m learning C & C++.
-
-- :zap: In my free time, I learn smart contracts in Solidity and work in sporadic projects.
+- :telescope: I learned C & C++ in 42Madrid. Now I'm working as a frontend developer in Smartick.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gonzalo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalofavieres)
 
@@ -30,6 +28,7 @@ I am a student at 42 Madrid.
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Sol" alt="Sol" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
 </div>
 
 ---
