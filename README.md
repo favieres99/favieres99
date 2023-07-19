@@ -13,9 +13,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a student at 42 Madrid.
-
-- :telescope: I learned C & C++ in 42Madrid. Now I'm working as a frontend developer in Smartick.
+- :telescope: I learned C & C++ in 42Madrid. I am now working as a full-stack developer in Smartick.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gonzalo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalofavieres)
 
@@ -25,14 +23,10 @@ I am a student at 42 Madrid.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Sol" alt="Sol" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favieres99&count_private=true&hide=swift,perl)](https://github.com/anuraghazra/github-readme-stats)
-[![gfaviere's 42 stats](https://badge42.vercel.app/api/v2/cl3m1culy006909lgu3oa06km/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)
