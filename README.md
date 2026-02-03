@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Smartick<br>🌱 I’m currently learning autotrading bots
+🔭 I’m currently working at Smartick<br>🌱 I’m currently learning autotrading bots
 
 
 ## 🌐 Socials:
